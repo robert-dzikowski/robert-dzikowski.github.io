@@ -4,7 +4,7 @@ const WARSAW = { lat: 52.229639, lng: 21.011353 };
 const BAGDER_MAPS = { lat: 37.172730, lng: -3.599667 };
 
 var mapOptions = {
-    zoom: 17,
+    zoom: 15,
     center: BAGDER_MAPS,
     mapTypeId: 'hybrid'
 };
