@@ -1,11 +1,11 @@
 //<![CDATA[
 
 const WARSAW = { lat: 52.229639, lng: 21.011353 };
-const BAGDER_MAPS = { lat: 37.172730, lng: -3.599667 };
+const MADRID = { lat: 40.419416, lng: -3.697704 };
 
 var mapOptions = {
     zoom: 15,
-    center: BAGDER_MAPS,
+    center: MADRID,
     mapTypeId: 'hybrid'
 };
 var map;
