@@ -1,7 +1,7 @@
 //<![CDATA[
 
-const WARSAW = { lat: 52.229639, lng: 21.011353 };
-const MADRID = { lat: 40.419416, lng: -3.697704 };
+const WARSAW = { lat: 52.229639,  lng: 21.011353 };
+const MADRID = { lat: 40.4167629, lng: -3.7037035 };
 
 var mapOptions = {
     zoom: 15,
